@@ -1,0 +1,19 @@
+.Search {
+    display: flex;
+    flex-direction: column;
+}
+  
+.Search-select {
+    display: block;
+    width: 80%;
+    max-width: 450px;
+    font-size: 1rem;
+    margin: 16px auto;
+    border-radius: 6px;
+    padding: 8px;
+    border: none;
+}
+  
+.Search-continue {
+    margin-left: auto;
+};
